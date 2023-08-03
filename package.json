@@ -1,0 +1,27 @@
+{
+  "name": "pythonmedic",
+  "version": "1.0.0",
+  "description": "pattern recognition of diabetes remedy using python computer language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chun-wai/pythonmedic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chun-wai/pythonmedic/issues"
+  },
+  "homepage": "https://github.com/chun-wai/pythonmedic#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "debug": "^4.3.4",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3"
+  }
+}
